@@ -1,4 +1,4 @@
 # Digital-Product
-live Site
+live Site:https://tanvir-sakil.github.io/Digital-Product/
 
-This is a simple HTML and CSS project where some header,section,navigation bar,footer etc are used.
+This is a simple HTML and CSS project where header,some section section,navigation bar,box, footer etc are used.
